@@ -1,0 +1,7 @@
+﻿    "Provider=sqloledb;Data" "Source=db816422537.hosting-data.io",
+    "1433;Initial" "Catalog=db816422537;User",
+    "Id=dbo816422537;Password=*****;"
+
+
+    Edited appsettings.Development.json for local testings
+    This is an experimental page using a movies table that is also postable to the ionos box using 'publish' from the solution explorer
